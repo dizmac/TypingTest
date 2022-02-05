@@ -1,0 +1,48 @@
+h1 {
+  text-align: center;
+  font-family: monospace, 'Courier New';
+}
+
+#start {
+  margin: auto;
+  display: grid;
+  text-align: center;
+  color: white;
+  background-color: rgb(47, 127, 255);
+  line-height: 80px;
+  width: 200px;
+  height: 80px;
+  border-radius: 7px;
+  font-size: 20pt;
+  border-color: white;
+}
+
+#displayStyle {
+  margin: auto;
+  display: grid;
+  text-align: center;
+  color: white;
+  background-color: rgb(47, 127, 255);
+  line-height: 50px;
+  width: 200px;
+  height: 50px;
+  border-radius: 7px;
+  font-size: 20pt;
+  border-color: white;
+}
+
+p {
+  text-align: center;
+  font-family: monospace, 'Courier';
+}
+
+input {
+  margin: auto;
+  display: flex;
+  width: 300px;
+  height: 100px;
+  border-radius: 7px;
+  text-align: center;
+  font-family: monospace, 'Courier New';
+  font-size: 20pt;
+}
